@@ -1,0 +1,11 @@
+.Post {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #e3e3e3;
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.Post--liked {
+    background-color: green;
+}
